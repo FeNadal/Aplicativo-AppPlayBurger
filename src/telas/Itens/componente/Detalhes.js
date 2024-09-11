@@ -24,7 +24,7 @@ export default function Detalhes() {
   return (
     <View style={styles.container}>
       <TextInput 
-        placeholder='Procure o Lanche' 
+        placeholder='Procure seu lanche' 
         placeholderTextColor="#a8a8a8" 
         style={styles.input}
       />
